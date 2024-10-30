@@ -9,7 +9,6 @@
 
 <h1 align="center"></picture>About Me</h1>
 
-<picture> <img align="right" src="" width = 250px></picture>
 
 <br>
 
