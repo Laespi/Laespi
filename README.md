@@ -73,23 +73,7 @@ I am an engineer with a keen eye for detail, responsible and committed, focused 
 
 ----
     
-<div>
-  <p align="center">
-    <a href="https://github.com/Laespi/Calculadora">
-        </a>
-    <a href="https://github.com/Laespi/panaderia">
-        </a>
-        <a href="https://github.com/Laespi/Login">
-        </a>
-        <a href="https://github.com/Laespi/granjaSanbenito">
-        </a>
-        <a href="https://github.com/Laespi/Hojadevida">
-        </a>
-   
-        </a>
-    
-  </p>
-</div>
+
 </details>
 <br>
 
