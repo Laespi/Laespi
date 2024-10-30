@@ -69,12 +69,7 @@ I am an engineer with a keen eye for detail, responsible and committed, focused 
 
 <!-- Listado repositorios -->
 
-<details align="center"><summary><h1> :open_file_folder: My Repositories</h1></summary>
 
-----
-    
-
-</details>
 <br>
 
 <!-- Métricas -->
